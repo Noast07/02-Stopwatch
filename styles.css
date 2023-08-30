@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-family: 'Phudu', cursive;
+}
+
+
+.container {
+    padding: 1rem;
+    max-width: 300px;
+    text-align: center;
+    position: relative;
+    background-color: rgb(23, 47, 54, 0.8)
+}
+
+.time {
+    padding: 1rem 0;
+    font-size: 2rem;
+}
+
+
+h1, 
+p {
+    color: #e9e8e8
+}
+
+button {
+    padding: 0.5rem 1rem;
+    margin: 0 0.2rem;
+    border: 1px solid #f8f8f8;
+    cursor: pointer;
+}
+
+buttom:hover {
+    background-color: #f8f8f8;
+    color: #000;
+}
