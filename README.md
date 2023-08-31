@@ -11,4 +11,5 @@ What problem does it solve? This solution is just a simple stopwatch app within 
 What did I learn from this project? I learned how to implement and calculate more functions within Javascript. Such as figuring out how to create a simple set of code tasked to create my stopwatch.
 
 
-Website: <img src="/website.png" alt="Desktop" width="600"/>
+                                                                        Website: 
+<img src="/website.png" alt="Desktop" width="600"/>
